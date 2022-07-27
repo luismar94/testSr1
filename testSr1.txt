@@ -1,0 +1,13 @@
+// Este arreglo contiene calificaciones de diferentes alumnos
+const grades = [7, 4, 6, 7, 4, 8, 9, 10]
+
+// Desarrolla una clase que contenga un método para emitir cada uno de los siguientes resultados: 
+// cuántos alumnos aprobaron
+// cuántos alumnos reprobaron
+// el promedio del grupo
+// la calificación más alta del grupo
+// la calificación más baja del grupo
+
+// Para cada método realiza pruebas unitarias con al menos 4 casos de prueba, utiliza mi arreglo como una de las entradas en cada uno
+
+// Entregar proyeto en GitHub, GitLab o BitBucket usando npm o deno

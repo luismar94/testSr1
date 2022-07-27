@@ -1,0 +1,14 @@
+// Desarrollar una clase con tres métodos que entreguen el número n de cada serie
+
+// Números triangulares
+// 1, 1 + 2 = 3, 3 + 3 = 6, 6 + 4 = 10, 10 + 5 = 15...
+
+// Serie de Fibonacci
+// 1, 1, 1 + 1 = 2, 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8...
+
+// Números primos
+// solamente divisibles por sí mismos, no cuenta el 1, a partir del 2
+
+// Para cada método realizar al menos 10 casos de prueba
+
+// Entregar proyeto en GitHub, GitLab o BitBucket usando npm o deno
